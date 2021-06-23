@@ -1,0 +1,21 @@
+------------------------------------------------------
+weather stats for - CHANDIGARH || 23 Jun 21 | 11:48:29 AM
+------------------------------------------------------
+Current temperature is: 40.53 deg C
+Current weather desc  :clear sky
+Current humidity      :15 %
+Current wind speed    :2.29 kmph
+------------------------------------------------------
+weather stats for - BIHAR || 23 Jun 21 | 11:49:18 AM
+------------------------------------------------------
+Current temperature is: 26.12 deg C
+Current weather desc  :clear sky
+Current humidity      :70 %
+Current wind speed    :2.57 kmph
+------------------------------------------------------
+weather stats for - PATIALA || 23 Jun 21 | 11:49:32 AM
+------------------------------------------------------
+Current temperature is: 42.49 deg C
+Current weather desc  :clear sky
+Current humidity      :15 %
+Current wind speed    :1.03 kmph
